@@ -375,7 +375,7 @@
                     <a href="mailto:jtomin14@gmail.com" class="inline-block bg-white text-sky-700 font-semibold py-3 px-6 rounded-lg shadow-md hover:bg-sky-50 transition-colors">
                         📧 Email Me
                     </a>
-                    <a href="https://www.linkedin.com/in/jontomin" target="_blank" rel="noopener noreferrer" class="inline-block bg-sky-500 text-white font-semibold py-3 px-6 rounded-lg shadow-md hover:bg-sky-400 transition-colors">
+                    <a href="https://www.linkedin.com/in/jonathan-tomin1980/" target="_blank" rel="noopener noreferrer" class="inline-block bg-sky-500 text-white font-semibold py-3 px-6 rounded-lg shadow-md hover:bg-sky-400 transition-colors">
                         🔗 LinkedIn Profile
                     </a>
                      <a href="tel:+1-971-322-8264" class="inline-block bg-white text-sky-700 font-semibold py-3 px-6 rounded-lg shadow-md hover:bg-sky-50 transition-colors">
